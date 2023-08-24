@@ -6,7 +6,6 @@ nav li {
     
 }
 
-
 body {
     display: grid;
     width: 100%;
@@ -32,5 +31,10 @@ main {
 
 footer {
     grid-area: footer;
+    text-align: center;
+}
+
+table {
+    width: 100%;
     text-align: center;
 }
